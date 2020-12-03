@@ -29,8 +29,9 @@ Holaaaaaaaa<img alt="Denis's Dribbble" width="22px" src="https://camo.githubuser
 - 🤓 Active user at GitHub & LinkedIn
 - 📫 How to reach me - **[connect via linkedin](https://www.linkedin.com/in/denis-otim-63661a11a/)**
 - ⚡ Fun Facts:
-  - Besides programming, I love to stay in shape, netflix & chill, and playing the guitar 🎸
+  - Besides programming, I love to stay in shape, anime, netflix & chill, and playing the guitar 🎸
   - You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.🤣😂😅😐🙁☹️😞😩😭😤 "Not A Great Feeling"~
+  - If your still reading your a legend!
 
 **Languages and Tools:**
 
@@ -42,7 +43,7 @@ Holaaaaaaaa<img alt="Denis's Dribbble" width="22px" src="https://camo.githubuser
 
 **📈 My GitHub Stats**
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DmanCoder&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DmanCoder&show_icons=true&theme=graywhite )
 
 
   <img align="left" alt="GIF" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" height="100" />
