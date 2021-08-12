@@ -23,7 +23,7 @@ Holaaaaaaaa<img alt="Denis's Dribbble" width="22px" src="https://camo.githubuser
 
 **Summary**
 
-- 👨🏽‍💻 I am currently learning Node.js 💖loving it💖
+- 👨🏽‍💻 I am currently learning React Native / Reanimated 2 💖loving it💖
 - 🙌 I'm currently looking for a full-time Frontend Developer opportunity
 - 💬 Ask me about anything, I am happy to help
 - 🤓 Active user at GitHub & LinkedIn
