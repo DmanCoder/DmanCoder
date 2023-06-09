@@ -30,7 +30,7 @@ Holaaaaaaaa<img alt="Denis's Dribbble" width="22px" src="https://camo.githubuser
 - ⚡ Fun Facts:
   - Besides programming, I love to stay in shape, anime, netflix & chill, and playing the guitar 🎸
   - You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.🤣😂😅😐🙁☹️😞😩😭😤 "Not A Great Feeling"~
-  - If your still reading your a legend!
+  - If your still reading this, your a legend!
 
 **Languages and Tools:**
 
