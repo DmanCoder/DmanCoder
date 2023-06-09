@@ -23,7 +23,7 @@ Holaaaaaaaa<img alt="Denis's Dribbble" width="22px" src="https://camo.githubuser
 
 **Summary**
 
-- 👨🏽‍💻 I am currently learning React Native / Reanimated 2 💖loving it💖
+- 👨🏽‍💻 I love to animate websites because it adds the finishing touches and builds trust, ultimately leading to more conversions.
 - 💬 Ask me about anything, I am happy to help
 - 🤓 Active user at GitHub & LinkedIn
 - 📫 How to reach me - **[connect via linkedin](https://www.linkedin.com/in/denis-otim-63661a11a/)**
