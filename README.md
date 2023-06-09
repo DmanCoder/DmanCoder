@@ -17,7 +17,7 @@
 
 <br />
 
-Holaaaaaaaa<img alt="Denis's Dribbble" width="22px" src="https://camo.githubusercontent.com/90cb7943ff2732c20f4cdeec1338e3c793aca37896cadcf3fcd8275964e1d2d7/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" />, My name is Denis Otim, a Frontend Developer 🚀 from Brisbane. I have 2+ years experience as a frontend developer under my utility belt (call me Batman). I am always striving for continuous🌱growth💯
+Holaaaaaaaa<img alt="Denis's Dribbble" width="22px" src="https://camo.githubusercontent.com/90cb7943ff2732c20f4cdeec1338e3c793aca37896cadcf3fcd8275964e1d2d7/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" />, My name is Denis Otim, a Frontend Developer 🚀 from Brisbane. I have 4+ years experience as a frontend developer under my utility belt (call me Batman). I am always striving for continuous🌱growth💯
 
   <img align="right" alt="GIF" src="https://github.com/DmanCoder/DmanCoder/blob/main/assets/dbz.gif" width="500" height="320" />
 
